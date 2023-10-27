@@ -1,5 +1,5 @@
 # NodePractice
-Este repositorio se utiliza como práctica básica para la gestión de datos en Node.js.
+Este repositorio se utiliza como una práctica básica para la gestión de datos en Node.js.
 
 ## Tareas a realizar
 
